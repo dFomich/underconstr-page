@@ -1,0 +1,19 @@
+{
+  "name": "underconstr-page",
+  "version": "1.0.0",
+  "description": "Under Construction page for sapport.online",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "under-construction",
+    "sapport"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
